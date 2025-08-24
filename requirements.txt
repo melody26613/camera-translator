@@ -1,0 +1,7 @@
+Pillow
+googletrans==4.0.0-rc1
+requests
+cachetools
+pygrabber
+opencv-python
+moviepy==1.0.3

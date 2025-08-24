@@ -2,9 +2,9 @@
 Capture video frames from the OBS virtual camera, extract text using [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR), and translate it with the [Ollama](https://ollama.com/download/linux) LLM model.
 
 
-![demo 1](https://github.com/melody26613/camera_translator/blob/main/pic/2025-08-24_10-01-41.gif)
+![demo 1](https://github.com/melody26613/camera-translator/blob/main/pic/2025-08-24_10-01-41.gif)
 
-![demo 2](https://github.com/melody26613/camera_translator/blob/main/pic/2025-08-24_10-03-11.gif)
+![demo 2](https://github.com/melody26613/camera-translator/blob/main/pic/2025-08-24_10-03-11.gif)
 
 * flow
 
